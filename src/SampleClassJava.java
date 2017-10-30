@@ -14,6 +14,10 @@ public class SampleClassJava {
 		
 		System.out.println("line added to make the conflict with b1 branch");
 		
+		// b1
+		System.out.println("writting to make conflict with master checkin");
+
+		
 	}
 
 }
