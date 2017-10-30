@@ -11,11 +11,14 @@ public class SampleClassJava {
 		// line added below to see if change is made to master
 		
 		//master
-		
 		System.out.println("line added to make the conflict with b1 branch");
 		
 		// b1
 		System.out.println("writting to make conflict with master checkin");
+		
+		System.out.println("check for build to test web hook");
+		
+		
 
 		
 	}
