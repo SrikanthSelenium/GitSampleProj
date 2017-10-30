@@ -10,6 +10,10 @@ public class SampleClassJava {
 		System.out.println("first line added in git hub");
 		// line added below to see if change is made to master
 		
+		//master
+		
+		System.out.println("line added to make the conflict with b1 branch");
+		
 	}
 
 }
