@@ -6,7 +6,7 @@ public class SampleClassJava {
 		
 		System.out.println("first line added in eclipse");
 		System.out.println("second line added in eclipse");
-		
+		//Commented this line to check for b1 branch change in git
 		System.out.println("first line added in git hub");
 		
 		
