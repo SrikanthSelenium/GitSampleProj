@@ -6,6 +6,10 @@ public class SampleClassJava {
 		
 		System.out.println("first line added in eclipse");
 		System.out.println("second line added in eclipse");
+		
+		System.out.println("first line added in git hub");
+		
+		
 	}
 
 }
