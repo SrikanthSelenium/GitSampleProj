@@ -18,6 +18,8 @@ public class SampleClassJava {
 		
 		System.out.println("check for build to test web hook");
 		
+		System.out.println("check for build if code changes");
+		
 		
 
 		
