@@ -20,6 +20,8 @@ public class SampleClassJava {
 		
 		System.out.println("check for build if code changes");
 		
+		System.out.println("line added in github master");
+		
 		
 
 		
